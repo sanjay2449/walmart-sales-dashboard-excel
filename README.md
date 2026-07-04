@@ -7,10 +7,7 @@ This project demonstrates end-to-end Excel dashboard development using **Pivot T
 ---
 
 ## 📸 Dashboard Preview
-
-> Add your dashboard screenshot below.
-
-![Walmart Sales Dashboard](images/dashboard.png)
+<img width="1807" height="784" alt="image" src="https://github.com/user-attachments/assets/f34ea468-e7b8-4f77-a071-777635a7a5b4" />
 
 ---
 
