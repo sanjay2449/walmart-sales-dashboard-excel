@@ -3,6 +3,10 @@
 An interactive Walmart Sales Dashboard built in **Microsoft Excel** to analyze customer purchase behavior, sales performance, payment methods, product categories, repeat customers, and city-wise orders.
 
 This project demonstrates end-to-end Excel dashboard development using **Pivot Tables**, **Pivot Charts**, **Slicers**, and **Business KPIs** to convert raw sales data into meaningful business insights.
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-Transformation-yellow?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-Data%20Cleaning-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 ---
 
